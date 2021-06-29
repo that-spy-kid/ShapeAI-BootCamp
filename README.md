@@ -11,8 +11,8 @@ learn a lot during these 7 days and it was an amazing experience learning with S
 <li>React.js
 <br>during these 7 days, and everything was explained from the very basics so that
 anyone with zero experience on programming can learn.
-I enjoyed these 7 days, you can as well. 
-or follow SHAPEAI on:
+I enjoyed these 7 days, you can as well.
+follow SHAPEAI on:
 <li><a href=
 "https://in.linkedin.com/company/shapeai">LinkedIn</a>
 <li><a href=
